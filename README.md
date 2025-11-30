@@ -1,5 +1,5 @@
 ### Hi, I’m Konstantin ✨
-I’m a self-taught developer who enjoys building tools and small games.  
+I’m a self-taught developer who enjoys building tools.  
 Most of my projects are experiments to learn, improve, and have fun.
 
 📁 I’ve got a bunch of [projects](https://github.com/dasvegy?tab=repositories).\
