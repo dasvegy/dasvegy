@@ -2,8 +2,8 @@
 I’m a self-taught developer who enjoys building tools and small games.  
 Most of my projects are experiments to learn, improve, and have fun.
 
-I’ve got a bunch of [projects](https://github.com/dasvegy?tab=repositories).\
-🔧 I'm currently working on: [Betterer-Twitch-Notifier](https://github.com/dasvegy/Betterer-Twitch-Notifier).
+📁 I’ve got a bunch of [projects](https://github.com/dasvegy?tab=repositories).\
+🚧 I'm currently working on: [Betterer-Twitch-Notifier](https://github.com/dasvegy/Betterer-Twitch-Notifier).
 
 ### 📦Some of my Projects are:
 - **[Betterer-Twitch-Notifier](https://github.com/dasvegy/Betterer-Twitch-Notifier)** — Customizable Twitch notification tool  
